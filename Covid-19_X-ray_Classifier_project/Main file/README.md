@@ -16,12 +16,3 @@ This will firstly download the models and then start the local web server.
 now go to the local server something like this - http://127.0.0.1:5000/ and see the result and explore.
 
 
-
-  publisher={Elsevier}
-  DOI={https://doi.org/10.1016/j.asoc.2022.109851}
-}
-```
-
-### Latest DOI
-
-[![DOI](https://zenodo.org/badge/168799526.svg)](https://doi.org/10.1016/j.asoc.2022.109851)
